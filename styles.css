@@ -1,0 +1,28 @@
+body
+	{background-color:#ffe6cc;
+	text-align:center;}
+
+h1
+	{font-family:Helvetica;
+        background-color:#ffb3b3;
+        color: black;
+        text-align:center;
+		border: 30px groove #cce6ff;}
+
+img
+	{width:175px;
+	border: 20px double #ffb3b3;}
+	
+
+.title
+	{font-family: 'Playfair Display', serif;}
+
+.text
+	{font-family: 'Dosis', sans-serif;
+	font-size:25px;}
+
+.green 
+	{color:green;}
+    
+.purple
+	{color:purple;}
